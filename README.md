@@ -237,4 +237,4 @@ FUTURE ENHANCEMENT
 <p>
 <hr>
 
-<p align="center"><i>Have fun playing Hunger Games!</i></p>
+<p align="center"><i>Have fun playing Hunger Games! Go Go Go </i></p>
